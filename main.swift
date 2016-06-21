@@ -13,5 +13,4 @@ a = 6
 var  b = 10
 
 let c = a+b
-
 print (c)
